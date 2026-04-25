@@ -18,4 +18,4 @@ HTML5, CSS3, JavaScript, jQuery, PHP ו-MySQL.
 
 ## 🔗 למסך הבית
 
-👉 [לחצו כאן לצפייה במסך הבית](
+👉 [לחצו כטן למסך הבית](https://github.com/paulawaiter13-sudo/examix_extenssion.git)
