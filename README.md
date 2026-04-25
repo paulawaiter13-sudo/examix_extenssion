@@ -19,5 +19,4 @@ HTML5, CSS3, JavaScript, jQuery, PHP ו-MySQL.
 
 ## 🔗 למסך הבית
 
-👉 [לחצו כאן לצפייה במסך הבית](https://emilekh10.github.io/project4/index.html)
-
+👉 [לחצו כאן לצפייה במסך הבית] 
